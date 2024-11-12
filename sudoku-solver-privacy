@@ -1,0 +1,2 @@
+# <uses-permission android:name="android.permission.CAMERA" />
+This permission to capture an image for scanning sudoku board 
